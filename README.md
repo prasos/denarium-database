@@ -2,9 +2,9 @@
 # Official Denarium database
 
 This is the official [Denarium Bitcoin](https://denarium.com)
-database. This database dump consists of two files; [README.md](README.md)
-(this file) and [coin.tsv](coin.tsv) which contains current status of all
-Denarium Bitcoins ever produced in tab-separated format.
+database. The database is a single file, [coin.tsv](coin.tsv) which
+contains current status of all Denarium Bitcoins ever produced in
+tab-separated format.
 
 Provided data was automatically produced at 2015-10-12 13:37:03 UTC.
 Content is signed by bitcoin address
@@ -12,9 +12,51 @@ Content is signed by bitcoin address
 Proof of origin and existence of the data is in transaction
 [90b424d3766cc836a10a13796bf743f6496abda53b5e1efd7ff6929cb96bc2a0](https://www.blocktrail.com/BTC/tx/90b424d3766cc836a10a13796bf743f6496abda53b5e1efd7ff6929cb96bc2a0).
 
+## Verification
+
 To verify the origin, check that the transaction originates from our bitcoin
 address. To verify existence, calculate SHA256 of [coin.tsv](coin.tsv) and
 compare it to last bytes of OP_RETURN output of given bitcoin transaction.
 
-There is also [verify.py](verify.py) which does it automatically. See
-that file for instructions.
+There is also [verify.py](verify.py) which does all of this
+automatically. See that file for instructions.
+
+## Format
+
+Data format:
+
+Column       | Description
+------------ | -----------
+address      | Bitcoin address of the coin
+serial       | Serial number (L series are pre-loaded coins)
+pubkey       | Reserved for future use
+sku          | Stock keeping unit (see below)
+denomination | Bitcoin value of that coin after activation
+batch        | Production batch code. The format is composed of year, month, day, and a sequence number of the production set-up. The same set-up may have been used for multiple days.
+created\_at  | Timestamp of coin creation (importing is done in batches so this is not the exact moment of manufacture)
+status       | Coin status (see below)
+pubkey\_2fa  | Reserved for future use
+txid         | Funding transaction ID. (Some of the txid's have been subject to malleability attacks)
+
+### Coin status
+
+Status            | Description
+----------------- | -----------
+new               | Successfully manufactured, not shipped yet
+failed            | Destroyed on the production line
+sample            | Random samples for quality control
+shipped           | Shipped but not yet activated
+reported\_missing | Reported as missing by customer
+reported\_damaged | Reported as damaged by customer
+reported\_ok      | Reported as OK by customer
+missing           | Confirmed as missing
+complete          | Successfully activated
+
+### SKU
+
+SKU    | Description
+------ | -----------
+F0107  | Denarium 1/100
+F0107X | Denarium 1/100 (empty)
+F0108  | Denarium 1/10
+F0108X | Denarium 1/10 (empty)
