@@ -23,7 +23,9 @@ automatically. See that file for instructions.
 
 ## Format
 
-Data format:
+Data is separated to columns using tab (`\t`) character. Character set
+is ASCII. It can be easily imported to common databases and
+spreadsheet editors.
 
 Column       | Description
 ------------ | -----------
@@ -32,7 +34,7 @@ serial       | Serial number (L series are pre-loaded coins)
 pubkey       | Reserved for future use
 sku          | Stock keeping unit (see below)
 denomination | Bitcoin value of that coin after activation
-batch        | Production batch code. The format is composed of year, month, day, and a sequence number of the production set-up. The same set-up may have been used for multiple days.
+batch        | Production batch code (see below)
 created\_at  | Timestamp of coin creation (importing is done in batches so this is not the exact moment of manufacture)
 status       | Coin status (see below)
 pubkey\_2fa  | Reserved for future use
@@ -60,3 +62,10 @@ F0107  | Denarium 1/100
 F0107X | Denarium 1/100 (empty)
 F0108  | Denarium 1/10
 F0108X | Denarium 1/10 (empty)
+
+### Production batch code
+
+The format is in YYYY-MM-DD-N format and is composed of year, month,
+day of the production set-up. The same set-up may have been used for
+multiple days. In case of multiple set-ups per a day, N is
+incremented.
