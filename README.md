@@ -15,3 +15,6 @@ Proof of origin and existence of the data is in transaction
 To verify the origin, check that the transaction originates from our bitcoin
 address. To verify existence, calculate SHA256 of [coin.tsv](coin.tsv) and
 compare it to last bytes of OP_RETURN output of given bitcoin transaction.
+
+There is also [verify.py](verify.py) which does it automatically. See
+that file for instructions.
