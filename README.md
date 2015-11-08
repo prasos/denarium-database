@@ -6,11 +6,11 @@ database. The database is a single file, [coin.tsv](coin.tsv) which
 contains current status of all Denarium Bitcoins ever produced in
 tab-separated format.
 
-Provided data was automatically produced at 2015-11-07 19:01:11 UTC.
+Provided data was automatically produced at 2015-11-08 19:00:29 UTC.
 Content is signed by bitcoin address
 [1PrasosHejKfuRW6XgB6iYwftZQcatrMNC](https://www.blocktrail.com/BTC/address/1PrasosHejKfuRW6XgB6iYwftZQcatrMNC).
 Proof of origin and existence of the data is in transaction
-[b979e48e61c70c5fe18bf9b627ae3295d1ab38bf444917d60d8c4fd4de0ac7e1](https://www.blocktrail.com/BTC/tx/b979e48e61c70c5fe18bf9b627ae3295d1ab38bf444917d60d8c4fd4de0ac7e1).
+[aa91fe43a5e19dbbb2e82530ab07c6f0c8ff8fd636095a5ec268ecedf7ee4890](https://www.blocktrail.com/BTC/tx/aa91fe43a5e19dbbb2e82530ab07c6f0c8ff8fd636095a5ec268ecedf7ee4890).
 
 ## Verification
 
