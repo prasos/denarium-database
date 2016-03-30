@@ -58,10 +58,14 @@ complete          | Successfully activated
 
 SKU    | Description
 ------ | -----------
-F0107  | Denarium 1/100
-F0107X | Denarium 1/100 (empty)
-F0108  | Denarium 1/10
-F0108X | Denarium 1/10 (empty)
+F0107  | [Denarium 1/100](https://denarium.com/product/denarium-10-000-bits)
+F0107X | [Denarium 1/100 (empty)](https://denarium.com/product/denarium-10-000-bits-empty)
+F0108  | [Denarium 1/10](https://denarium.com/product/denarium-100-000-bits)
+F0108X | [Denarium 1/10 (empty)](https://denarium.com/product/denarium-100-000-bits-empty)
+F0109  | [Denarium 1 BTC](https://denarium.com/product/denarium-1-btc)
+F0109X | [Denarium 1 BTC (empty)](https://denarium.com/product/denarium-1-btc-empty)
+F0119  | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amount)
+F0119X | [Denarium Custom (empty)](https://denarium.com/product/denarium-coin-empty)
 
 ### Production batch code
 
