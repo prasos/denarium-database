@@ -62,10 +62,22 @@ F0107  | [Denarium 1/100](https://denarium.com/product/denarium-10-000-bits)
 F0107X | [Denarium 1/100 (empty)](https://denarium.com/product/denarium-10-000-bits-empty)
 F0108  | [Denarium 1/10](https://denarium.com/product/denarium-100-000-bits)
 F0108X | [Denarium 1/10 (empty)](https://denarium.com/product/denarium-100-000-bits-empty)
-F0109  | [Denarium 1 BTC](https://denarium.com/product/denarium-1-btc)
-F0109X | [Denarium 1 BTC (empty)](https://denarium.com/product/denarium-1-btc-empty)
+F0109  | [Denarium 1 BTC Silver](https://denarium.com/product/denarium-1-btc)
+F0109X | [Denarium 1 BTC Silver (empty)](https://denarium.com/product/denarium-1-btc-empty)
+F0110  | [Denarium 1 BTC Silver Patinated](https://denarium.com/product/denarium-1-btc-patinated)
+F0110X | [Denarium 1 BTC Silver Patinated (empty)](https://denarium.com/product/denarium-1-btc-patinated)
+F0111  | [Denarium 1 BTC Silver Golden Edition](https://denarium.com/product/denarium-1-btc-golden-edition)
+F0111X | [Denarium 1 BTC Silver Golden Edition (empty)](https://denarium.com/product/denarium-1-btc-golden-edition)
 F0119  | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amount)
 F0119X | [Denarium Custom (empty)](https://denarium.com/product/denarium-coin-empty)
+F0120  | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
+F0120X | [Denarium Custom 0,01 - 5 BTC Gold Plated (empty)](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
+F0121  | [Denarium 1/100 Prototype #1]
+F0122  | [Denarium 1/10 Prototype #2]
+F0123  | [Denarium 1/100 Prototype #3]
+F0121X | [Denarium 1/100 Prototype #1 (empty)]
+F0122X | [Denarium 1/10 Prototype #2 (empty)]
+F0123X | [Denarium 1/100 Prototype #3 (empty)]
 
 ### Production batch code
 
