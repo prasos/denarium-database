@@ -72,12 +72,12 @@ F0119  | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amo
 F0119X | [Denarium Custom (empty)](https://denarium.com/product/denarium-coin-empty)
 F0120  | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
 F0120X | [Denarium Custom 0,01 - 5 BTC Gold Plated (empty)](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
-F0121  | [Denarium 1/100 Prototype #1]
-F0122  | [Denarium 1/10 Prototype #2]
-F0123  | [Denarium 1/100 Prototype #3]
-F0121X | [Denarium 1/100 Prototype #1 (empty)]
-F0122X | [Denarium 1/10 Prototype #2 (empty)]
-F0123X | [Denarium 1/100 Prototype #3 (empty)]
+F0121  | Denarium 1/100 Prototype #1
+F0122  | Denarium 1/10 Prototype #2
+F0123  | Denarium 1/100 Prototype #3
+F0121X | Denarium 1/100 Prototype #1 (empty)
+F0122X | Denarium 1/10 Prototype #2 (empty)
+F0123X | Denarium 1/100 Prototype #3 (empty)
 
 ### Production batch code
 
