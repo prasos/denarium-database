@@ -38,8 +38,13 @@ tx = requests.get(api+'/tx/'+txid).json()
 
 # Extract and compare
 origin = tx['vin'][0]['addr']
-block_hash = tx['blockhash']
-time = datetime.fromtimestamp(tx['blocktime'])
+
+if tx['blockheight'] > -1:
+  block_hash = tx['blockhash']
+  time = datetime.fromtimestamp(tx['blocktime'])
+else:
+  block_hash = 'unconfirmed'
+  time = 'unconfirmed'
 confs = tx['confirmations']
 script = tx['vout'][0]['scriptPubKey']['hex']
 hash_on_chain = script[len(docproof_boiler):] 
