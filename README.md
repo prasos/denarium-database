@@ -91,6 +91,10 @@ F0121X | Denarium 1/100 Prototype #1 (empty)
 F0122X | Denarium 1/10 Prototype #2 (empty)
 F0123X | Denarium 1/100 Prototype #3 (empty)
 
+### SKU JSON
+
+The file coin_sku.json contains all the products with their corresponding SKU names. It is useful for creating charts and other tools to the top of the Denarium Database.
+
 ### Production batch code
 
 The format is in YYYY-MM-DD-N format and is composed of year, month,
