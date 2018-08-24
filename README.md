@@ -76,6 +76,8 @@ F0114  | [Denarium 1/2 BTC Gold](https://denarium.com/product/denarium-1-2-btc-g
 F0114X | [Denarium 1/2 BTC Gold (empty)](https://denarium.com/product/denarium-1-2-btc-gold)
 F0115  | [Denarium 1 BTC Patinated Bronze](https://denarium.com/product/denarium-1-btc-bronze-patinated)
 F0115X | [Denarium 1 BTC Patinated Bronze (empty)](https://denarium.com/product/denarium-1-btc-bronze-patinated)
+F0116  | [Denarium 1/2 BTC Gold 2018]
+F0116X | [Denarium 1/2 BTC Gold 2018 (empty)]
 F0117  | [Denarium 1/100 BTC Gold Plated](https://denarium.com/product/denarium-1100-btc-gold-plated)
 F0117X | [Denarium 1/100 BTC Gold Plated (empty)](https://denarium.com/product/denarium-1100-btc-gold-plated)
 F0118  | [Denarium 1/10 BTC Gold Plated](https://denarium.com/product/denarium-110-btc-gold-plated)
