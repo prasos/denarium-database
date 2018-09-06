@@ -6,11 +6,11 @@ database. The database is a single file, [coin.tsv](coin.tsv) which
 contains current status of all Denarium Bitcoins ever produced in
 tab-separated format.
 
-Provided data was automatically produced at 2018-09-05 19:01:00 UTC.
+Provided data was automatically produced at 2018-08-23 18:00:49 UTC.
 Content is signed by bitcoin address
 [1PrasosHejKfuRW6XgB6iYwftZQcatrMNC](https://www.blocktrail.com/BTC/address/1PrasosHejKfuRW6XgB6iYwftZQcatrMNC).
 Proof of origin and existence of the data is in transaction
-[180cdd39b8e668fe32ef4d7af5137c30cefb4998b385f001fe7b59692bbb8232](https://www.blocktrail.com/BTC/tx/180cdd39b8e668fe32ef4d7af5137c30cefb4998b385f001fe7b59692bbb8232).
+[5bd595189ca637198fe4b2b6340da3e1d711aece3055a4e5bec63dbb2f32c38f](https://www.blocktrail.com/BTC/tx/5bd595189ca637198fe4b2b6340da3e1d711aece3055a4e5bec63dbb2f32c38f).
 
 ## Verification
 
@@ -76,8 +76,8 @@ F0114  | [Denarium 1/2 BTC Gold](https://denarium.com/product/denarium-1-2-btc-g
 F0114X | [Denarium 1/2 BTC Gold (empty)](https://denarium.com/product/denarium-1-2-btc-gold)
 F0115  | [Denarium 1 BTC Patinated Bronze](https://denarium.com/product/denarium-1-btc-bronze-patinated)
 F0115X | [Denarium 1 BTC Patinated Bronze (empty)](https://denarium.com/product/denarium-1-btc-bronze-patinated)
-F0116  | [Denarium 1/2 BTC Gold 2018]
-F0116X | [Denarium 1/2 BTC Gold 2018 (empty)]
+F0116  | [Denarium 1/2 BTC Gold 2018](https://denarium.com/product/denarium-1-2-btc-gold-2018)
+F0116X | [Denarium 1/2 BTC Gold 2018 (empty)](https://denarium.com/product/denarium-1-2-btc-gold-2018)
 F0117  | [Denarium 1/100 BTC Gold Plated](https://denarium.com/product/denarium-1100-btc-gold-plated)
 F0117X | [Denarium 1/100 BTC Gold Plated (empty)](https://denarium.com/product/denarium-1100-btc-gold-plated)
 F0118  | [Denarium 1/10 BTC Gold Plated](https://denarium.com/product/denarium-110-btc-gold-plated)
