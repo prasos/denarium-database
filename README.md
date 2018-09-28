@@ -92,6 +92,8 @@ F0123  | Denarium 1/100 Prototype #3
 F0121X | Denarium 1/100 Prototype #1 (empty)
 F0122X | Denarium 1/10 Prototype #2 (empty)
 F0123X | Denarium 1/100 Prototype #3 (empty)
+F0130  | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
+F0130X | [Denarium Custom Gold Plated 2018 (empty)](https://denarium.com/product/denarium-custom-gold-plated-2018)
 
 ### SKU JSON
 
