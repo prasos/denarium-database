@@ -6,11 +6,11 @@ database. The database is a single file, [coin.tsv](coin.tsv) which
 contains current status of all Denarium Bitcoins ever produced in
 tab-separated format.
 
-Provided data was automatically produced at 2018-10-31 09:15:23 UTC.
+Provided data was automatically produced at 2018-10-29 21:30:46 UTC.
 Content is signed by bitcoin address
 [1PrasosHejKfuRW6XgB6iYwftZQcatrMNC](https://www.blocktrail.com/BTC/address/1PrasosHejKfuRW6XgB6iYwftZQcatrMNC).
 Proof of origin and existence of the data is in transaction
-[29ee88477ee925deceb91cc566c00270cc5127828262da520e6366f3df7942fb](https://www.blocktrail.com/BTC/tx/29ee88477ee925deceb91cc566c00270cc5127828262da520e6366f3df7942fb).
+[45202eae9b7c5fb04fff6d88c6563739480317c4db317edc18e80b3627f4b88d](https://www.blocktrail.com/BTC/tx/45202eae9b7c5fb04fff6d88c6563739480317c4db317edc18e80b3627f4b88d).
 
 ## Verification
 
@@ -92,6 +92,9 @@ F0123  | Denarium 1/100 Prototype #3
 F0121X | Denarium 1/100 Prototype #1 (empty)
 F0122X | Denarium 1/10 Prototype #2 (empty)
 F0123X | Denarium 1/100 Prototype #3 (empty)
+F0124X | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
+F0125X | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
+F0126X | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
 F0130  | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
 F0130X | [Denarium Custom Gold Plated 2018 (empty)](https://denarium.com/product/denarium-custom-gold-plated-2018)
 
