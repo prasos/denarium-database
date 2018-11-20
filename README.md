@@ -56,47 +56,41 @@ complete          | Successfully activated
 
 ### SKU
 
-SKU    | Description
+SKU   | Description
+----- | -----------
+F0107 | [Denarium 1/100](https://denarium.com/product/denarium-10-000-bits)
+F0108 | [Denarium 1/10](https://denarium.com/product/denarium-100-000-bits)
+F0109 | [Denarium 1 BTC Silver](https://denarium.com/product/denarium-1-btc)
+F0110 | [Denarium 1 BTC Silver Patinated](https://denarium.com/product/denarium-1-btc-patinated)
+F0111 | [Denarium 1 BTC Silver Golden Edition](https://denarium.com/product/denarium-1-btc-golden-edition)
+F0112 | [Denarium Custom Silver](https://denarium.com/product/denarium-custom-silver)
+F0113 | [Denarium 1 BTC Parity Gold Coin](https://denarium.com/product/denarium-1-btc-parity-gold-coin)
+F0114 | [Denarium 1/2 BTC Gold](https://denarium.com/product/denarium-1-2-btc-gold)
+F0115 | [Denarium 1 BTC Patinated Bronze](https://denarium.com/product/denarium-1-btc-bronze-patinated)
+F0116 | [Denarium 1/2 BTC Gold 2018](https://denarium.com/product/denarium-1-2-btc-gold-2018)
+F0117 | [Denarium 1/100 BTC Gold Plated](https://denarium.com/product/denarium-1100-btc-gold-plated)
+F0118 | [Denarium 1/10 BTC Gold Plated](https://denarium.com/product/denarium-110-btc-gold-plated)
+F0119 | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amount)
+F0120 | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
+F0121 | Denarium 1/100 Prototype #1
+F0122 | Denarium 1/10 Prototype #2
+F0123 | Denarium 1/100 Prototype #3
+F0124 | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
+F0125 | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
+F0126 | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
+F0130 | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
+
+The X in the SKU means that the coin is sold as empty and in most cases, the serial number begins with an E. For mock-up coins, prototypes and new models we use Bitcointalk for auctioning these pieces. These coins serial number usually starts with an A.
+
+### Serial number
+
+SERIAL | Description
 ------ | -----------
-F0107  | [Denarium 1/100](https://denarium.com/product/denarium-10-000-bits)
-F0107X | [Denarium 1/100 (empty)](https://denarium.com/product/denarium-10-000-bits-empty)
-F0108  | [Denarium 1/10](https://denarium.com/product/denarium-100-000-bits)
-F0108X | [Denarium 1/10 (empty)](https://denarium.com/product/denarium-100-000-bits-empty)
-F0109  | [Denarium 1 BTC Silver](https://denarium.com/product/denarium-1-btc)
-F0109X | [Denarium 1 BTC Silver (empty)](https://denarium.com/product/denarium-1-btc-empty)
-F0110  | [Denarium 1 BTC Silver Patinated](https://denarium.com/product/denarium-1-btc-patinated)
-F0110X | [Denarium 1 BTC Silver Patinated (empty)](https://denarium.com/product/denarium-1-btc-patinated)
-F0111  | [Denarium 1 BTC Silver Golden Edition](https://denarium.com/product/denarium-1-btc-golden-edition)
-F0111X | [Denarium 1 BTC Silver Golden Edition (empty)](https://denarium.com/product/denarium-1-btc-golden-edition)
-F0112  | [Denarium Custom Silver](https://denarium.com/product/denarium-custom-silver)
-F0112X | [Denarium Custom Silver (empty)](https://denarium.com/product/denarium-custom-silver)
-F0113  | [Denarium 1 BTC Parity Gold Coin](https://denarium.com/product/denarium-1-btc-parity-gold-coin)
-F0113X | [Denarium 1 BTC Parity Gold Coin (empty)](https://denarium.com/product/denarium-1-btc-parity-gold-coin)
-F0114  | [Denarium 1/2 BTC Gold](https://denarium.com/product/denarium-1-2-btc-gold)
-F0114X | [Denarium 1/2 BTC Gold (empty)](https://denarium.com/product/denarium-1-2-btc-gold)
-F0115  | [Denarium 1 BTC Patinated Bronze](https://denarium.com/product/denarium-1-btc-bronze-patinated)
-F0115X | [Denarium 1 BTC Patinated Bronze (empty)](https://denarium.com/product/denarium-1-btc-bronze-patinated)
-F0116  | [Denarium 1/2 BTC Gold 2018](https://denarium.com/product/denarium-1-2-btc-gold-2018)
-F0116X | [Denarium 1/2 BTC Gold 2018 (empty)](https://denarium.com/product/denarium-1-2-btc-gold-2018)
-F0117  | [Denarium 1/100 BTC Gold Plated](https://denarium.com/product/denarium-1100-btc-gold-plated)
-F0117X | [Denarium 1/100 BTC Gold Plated (empty)](https://denarium.com/product/denarium-1100-btc-gold-plated)
-F0118  | [Denarium 1/10 BTC Gold Plated](https://denarium.com/product/denarium-110-btc-gold-plated)
-F0118X | [Denarium 1/10 BTC Gold Plated (empty)](https://denarium.com/product/denarium-110-btc-gold-plated)
-F0119  | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amount)
-F0119X | [Denarium Custom (empty)](https://denarium.com/product/denarium-coin-empty)
-F0120  | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
-F0120X | [Denarium Custom 0,01 - 5 BTC Gold Plated (empty)](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
-F0121  | Denarium 1/100 Prototype #1
-F0122  | Denarium 1/10 Prototype #2
-F0123  | Denarium 1/100 Prototype #3
-F0121X | Denarium 1/100 Prototype #1 (empty)
-F0122X | Denarium 1/10 Prototype #2 (empty)
-F0123X | Denarium 1/100 Prototype #3 (empty)
-F0124X | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
-F0125X | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
-F0126X | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
-F0130  | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
-F0130X | [Denarium Custom Gold Plated 2018 (empty)](https://denarium.com/product/denarium-custom-gold-plated-2018)
+A      | Auction coin (unique pieces sold as Bitcointalk)
+E      | Sold as empty or multisig
+L      | Sold as loaded with bitcoins
+M      | Used for special multisig coins
+
 
 ### SKU JSON
 
