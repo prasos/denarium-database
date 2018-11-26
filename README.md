@@ -78,6 +78,7 @@ F0123 | Denarium 1/100 Prototype #3
 F0124 | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
 F0125 | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
 F0126 | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
+F0129 | [Denarium Gold Bar 2018](https://denarium.com/product/denarium-gold-bar-2018)
 F0130 | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
 
 The X in the SKU means that the coin is sold as empty and in most cases, the serial number begins with an E. For mock-up coins, prototypes and new models we use Bitcointalk for auctioning these pieces. These coins serial number usually starts with an A.
