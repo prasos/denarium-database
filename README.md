@@ -58,35 +58,35 @@ complete          | Successfully activated
 
 ### SKU
 
-SKU   | Description
------ | -----------
-F0107 | [Denarium 1/100](https://denarium.com/product/denarium-10-000-bits)
-F0108 | [Denarium 1/10](https://denarium.com/product/denarium-100-000-bits)
-F0109 | [Denarium 1 BTC Silver](https://denarium.com/product/denarium-1-btc)
-F0110 | [Denarium 1 BTC Silver Patinated](https://denarium.com/product/denarium-1-btc-patinated)
-F0111 | [Denarium 1 BTC Silver Golden Edition](https://denarium.com/product/denarium-1-btc-golden-edition)
-F0112 | [Denarium Custom Silver](https://denarium.com/product/denarium-custom-silver)
-F0113 | [Denarium 1 BTC Parity Gold Coin](https://denarium.com/product/denarium-1-btc-parity-gold-coin)
-F0114 | [Denarium 1/2 BTC Gold](https://denarium.com/product/denarium-1-2-btc-gold)
-F0115 | [Denarium 1 BTC Patinated Bronze](https://denarium.com/product/denarium-1-btc-bronze-patinated)
-F0116 | [Denarium 1/2 BTC Gold 2018](https://denarium.com/product/denarium-1-2-btc-gold-2018)
-F0117 | [Denarium 1/100 BTC Gold Plated](https://denarium.com/product/denarium-1100-btc-gold-plated)
-F0118 | [Denarium 1/10 BTC Gold Plated](https://denarium.com/product/denarium-110-btc-gold-plated)
-F0119 | [Denarium Custom](https://denarium.com/product/denarium-with-custom-amount)
-F0120 | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://denarium.com/product/denarium-custom-001-5-btc-gold-plated)
-F0121 | Denarium 1/100 Prototype #1
-F0122 | Denarium 1/10 Prototype #2
-F0123 | Denarium 1/100 Prototype #3
-F0124 | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
-F0125 | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
-F0126 | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
-F0127 | [Denarium 1 BTC Bi-metallic coin prototype](https://status.denarium.com/coin/#/F0127)
-F0128 | [Denarium 1 BTC Parity coin Copper mock-up ](https://status.denarium.com/coin/#/F0128)
-F0129 | [Denarium Gold Bar 2018](https://denarium.com/product/denarium-gold-bar-2018)
-F0130 | [Denarium Custom Gold Plated 2018](https://denarium.com/product/denarium-custom-gold-plated-2018)
-F0131 | [Denarium 1/10 BTC 2015 Error coins](https://status.denarium.com/coin/#/F0131)
-F0140 | [Denarium Custom Silver Antiqued Golden Edition coin](https://status.denarium.com/coin/#/F0140)
-F0141 | [Denarium Custom Silver Antiqued Edition coin](https://status.denarium.com/coin/#/F0141)
+SKU   | Release Year| Description |
+----- | ---------------------------
+F0107 | 2015        | [Denarium 1/100](https://status.denarium.com/coin/#/F0107)
+F0108 | 2015        | [Denarium 1/10](https://status.denarium.com/coin/#/F0108)
+F0109 | 2016        | [Denarium 1 BTC Silver](https://status.denarium.com/coin/#/F0109)
+F0110 | 2016        | [Denarium 1 BTC Silver Patinated](https://status.denarium.com/coin/#/F0110)
+F0111 | 2016        | [Denarium 1 BTC Silver Golden Edition](https://status.denarium.com/coin/#/F0111)
+F0112 | 2018        | [Denarium Custom Silver](https://status.denarium.com/coin/#/F0112)
+F0113 | 2017        | [Denarium 1 BTC Parity Gold Coin](https://status.denarium.com/coin/#/F0113)
+F0114 | 2018        | [Denarium 1/2 BTC Gold](https://status.denarium.com/coin/#/F0114)
+F0115 | 2018        | [Denarium 1 BTC Patinated Bronze](https://status.denarium.com/coin/#/F0115)
+F0116 | 2018        | [Denarium 1/2 BTC Gold 2018](https://status.denarium.com/coin/#/F0116)
+F0117 | 2015        | [Denarium 1/100 BTC Gold Plated](https://status.denarium.com/coin/#/F0117)
+F0118 | 2015        | [Denarium 1/10 BTC Gold Plated](https://status.denarium.com/coin/#/F0118)
+F0119 | 2015        | [Denarium Custom](https://status.denarium.com/coin/#/F0119)
+F0120 | 2016        | [Denarium Custom 0,01 - 5 BTC Gold Plated](https://status.denarium.com/coin/#/F0120)
+F0121 | 2016        | [Denarium 1/100 Prototype #1](https://status.denarium.com/coin/#/F0121)
+F0122 | 2016        | [Denarium 1/10 Prototype #2](https://status.denarium.com/coin/#/F0122)
+F0123 | 2016        | [Denarium 1/100 Prototype #3](https://status.denarium.com/coin/#/F0123)
+F0124 | 2018        | [Denarium 1 BTC Parity Gold Coin Mock-up](https://status.denarium.com/coin/#/F0124)
+F0125 | 2018        | [Denarium 1 BTC Silver Mock-up (Patinated Lead)](https://status.denarium.com/coin/#/F0125)
+F0126 | 2018        | [Denarium 1 BTC Silver Mock-up (Patinated Bronze)](https://status.denarium.com/coin/#/F0126)
+F0127 | 2019        | [Denarium 1 BTC Bi-metallic coin prototype](https://status.denarium.com/coin/#/F0127)
+F0128 | 2019        | [Denarium 1 BTC Parity coin Copper mock-up ](https://status.denarium.com/coin/#/F0128)
+F0129 | 2018        | [Denarium Gold Bar 2018](https://status.denarium.com/coin/#/F0129)
+F0130 | 2018        | [Denarium Custom Gold Plated 2018](https://status.denarium.com/coin/#/F0130)
+F0131 | 2019        | [Denarium 1/10 BTC 2015 Error coins](https://status.denarium.com/coin/#/F0131)
+F0140 | 2019        | [Denarium Custom Silver Antiqued Golden Edition coin](https://status.denarium.com/coin/#/F0140)
+F0141 | 2019        | [Denarium Custom Silver Antiqued Edition coin](https://status.denarium.com/coin/#/F0141)
 
 
 
