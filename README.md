@@ -58,8 +58,8 @@ complete          | Successfully activated
 
 ### SKU
 
-SKU   | Release Year| Description |
------ | ---------------------------
+SKU   | Release Year| Description
+----- | ------------| -----------
 F0107 | 2015        | [Denarium 1/100](https://status.denarium.com/coin/#/F0107)
 F0108 | 2015        | [Denarium 1/10](https://status.denarium.com/coin/#/F0108)
 F0109 | 2016        | [Denarium 1 BTC Silver](https://status.denarium.com/coin/#/F0109)
