@@ -86,6 +86,7 @@ F0129 | 2018        | [Denarium Gold Bar 2018](https://status.denarium.com/coin/
 F0130 | 2018        | [Denarium Custom Gold Plated 2018](https://status.denarium.com/coin/#/F0130)
 F0131 | 2019        | [Denarium 1/10 BTC 2015 Error coins](https://status.denarium.com/coin/#/F0131)
 F0132 | 2019        | [Denarium 2015 Custom Error coin](https://status.denarium.com/coin/#/F0132)
+F0133 | 2019        | [Denarium 1 BTC Patinated Bronze Mockup coin](https://status.denarium.com/coin/#/F0133)
 F0140 | 2019        | [Denarium Custom Silver Antiqued Golden Edition coin](https://status.denarium.com/coin/#/F0140)
 F0141 | 2019        | [Denarium Custom Silver Antiqued Edition coin](https://status.denarium.com/coin/#/F0141)
 F0142 | 2019        | [Denarium Custom Gold Plated 2019 Special Edition](https://status.denarium.com/coin/#/F0142)
