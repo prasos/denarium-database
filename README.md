@@ -8,11 +8,11 @@ tab-separated format.
 
 If you want to see coin details and transactions in a visual format, we also have the [Denarium Database Explorer](https://denarium.com/database).
 
-Provided data was automatically produced at 2019-05-20 07:36:55 UTC.
+Provided data was automatically produced at 2019-05-21 12:58:29 UTC.
 Content is signed by bitcoin address
 [1PrasosHejKfuRW6XgB6iYwftZQcatrMNC](https://www.blocktrail.com/BTC/address/1PrasosHejKfuRW6XgB6iYwftZQcatrMNC).
 Proof of origin and existence of the data is in transaction
-[42ccdebbffb174db7f63efbf1b6b9ec993046bc49022db70002c4081b1921718](https://www.blocktrail.com/BTC/tx/42ccdebbffb174db7f63efbf1b6b9ec993046bc49022db70002c4081b1921718).
+[7c0872f3b08ab780a013796d12b358551a5ebb96659b3400b3c1d3b9b1449f34](https://www.blocktrail.com/BTC/tx/7c0872f3b08ab780a013796d12b358551a5ebb96659b3400b3c1d3b9b1449f34).
 
 ## Verification
 
