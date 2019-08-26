@@ -91,6 +91,7 @@ F0140 | 2019        | [Denarium Custom Silver Antiqued Golden Edition coin](http
 F0141 | 2019        | [Denarium Custom Silver Antiqued Edition coin](https://status.denarium.com/coin/#/F0141)
 F0142 | 2019        | [Denarium Custom Gold Plated 2019 Special Edition](https://status.denarium.com/coin/#/F0142)
 F0143 | 2019        | [Denarium Custom Gold Plated 2019](https://status.denarium.com/coin/#/F0143)
+F0200 | 2019        | [Denarium Bitcoin Decennium 2019](https://status.denarium.com/coin/#/F0200)
 
 
 
